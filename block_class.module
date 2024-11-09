@@ -13,6 +13,10 @@ use Drupal\Core\Form\FormStateInterface;
 use Drupal\Core\Routing\RouteMatchInterface;
 use Drupal\Core\Url;
 
+functionhook_help() {
+  //test
+}
+
 /**
  * Implements hook_help().
  */
