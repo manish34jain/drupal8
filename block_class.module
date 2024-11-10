@@ -15,7 +15,7 @@ use Drupal\Core\Url;
 use Drupal\Core\Url123;
 
 functionhook_help() {
-  //test
+  //this is test for help.
 }
 
 /**
